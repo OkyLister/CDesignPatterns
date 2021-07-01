@@ -1,0 +1,4 @@
+GOBJECT (GNOME DEVELOPER) - knihovna pro OOP v C
+SOLID - principy OOP (některé návrhové vzory porušují - visitor)
+REFACTORING GURU (SOURCE MAKING) - návrhové vzory, postupy pro refaktorování (OOP)
+LINK TIME OPTIMALISATION - přepínače u GCC?

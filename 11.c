@@ -6,7 +6,7 @@
 #define container_of(type, list, list_) \
     (type*)((char *)list_ - offsetof(type, list))
 
-// https://pastebin.com/xw9cbrat
+// OBSERVER
 
 struct subscriber_ops;
 

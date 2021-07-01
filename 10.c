@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-// https://pastebin.com/Ag2qUJ3H
+// ITERATOR s begin a end (C++)
 
 struct citizen {
     int age;

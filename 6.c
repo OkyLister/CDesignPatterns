@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-// https://pastebin.com/RDHfVpbi
+// BUILDER
 
 
 // > test.txt ... command = NULL

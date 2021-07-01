@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-//https://pastebin.com/0WhUrCSP
+// PROTOTYP
 
 /* utilities */
 

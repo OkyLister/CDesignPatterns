@@ -5,6 +5,8 @@
 
 #define container_of(type, list, list_) \
     (type*)((char *)list_ - offsetof(type, list))
+	
+// DECORATOR
 
 /* abs */
 

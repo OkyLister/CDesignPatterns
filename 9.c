@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stddef.h>
 
-// https://pastebin.com/sH22aLsW
+// ITERATOR
 
 struct citizen {
     int age;

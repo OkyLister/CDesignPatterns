@@ -3,6 +3,8 @@
 #include <stddef.h>
 #include <string.h>
 
+// TOVARNA?
+
 #define ARRAY_SIZE(array) (sizeof array / sizeof *array)
 
 /* abstract animal */
